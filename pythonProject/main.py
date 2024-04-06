@@ -117,4 +117,4 @@ def run_conversation():
 
 
 
-print(run_conversation())
+print(run_conversation().content)
